@@ -1,4 +1,4 @@
-name: test_gpu
+name: test_gpu_1
 
 on: [push]
 
